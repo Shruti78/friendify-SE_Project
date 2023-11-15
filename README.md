@@ -1,1 +1,1 @@
-# on_my_wayyz-SE_Project-
+# friendify-SE_Project
